@@ -1,0 +1,21 @@
+# ninja log v5
+1912	1942	7818929450061119	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	59e3a3a991085e54
+1	31	7818929430953012	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	8f86c9532875c42b
+1912	1942	7818929450061119	C:/Users/Dmitriy Katyshev/struct/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	59e3a3a991085e54
+1826	1855	7818929449182119	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	3018aaddc4a86d52
+1	31	7818929430953012	C:/Users/Dmitriy Katyshev/struct/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	8f86c9532875c42b
+1855	1884	7818929449480128	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	41db870966dd18f0
+1855	1884	7818929449480128	C:/Users/Dmitriy Katyshev/struct/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	41db870966dd18f0
+32	1826	7818929448894123	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	c1614e1ff713c4ec
+32	1826	7818929448894123	C:/Users/Dmitriy Katyshev/struct/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	c1614e1ff713c4ec
+1826	1855	7818929449182119	C:/Users/Dmitriy Katyshev/struct/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	3018aaddc4a86d52
+1884	1912	7818929449760004	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	4b9c590973b845a
+2001	2041	7818929451042601	CMakeFiles/googletest-populate-complete	5ffb53a54a833523
+1884	1912	7818929449760004	C:/Users/Dmitriy Katyshev/struct/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	4b9c590973b845a
+1970	2001	7818929450643471	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d27967fdc169b5eb
+1942	1970	7818929450339356	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	f8506a0d873ec9ec
+1942	1970	7818929450339356	C:/Users/Dmitriy Katyshev/struct/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	f8506a0d873ec9ec
+1970	2001	7818929450643471	C:/Users/Dmitriy Katyshev/struct/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d27967fdc169b5eb
+2001	2041	7818929451042601	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	5ffb53a54a833523
+2001	2041	7818929451042601	C:/Users/Dmitriy Katyshev/struct/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	5ffb53a54a833523
+2001	2041	7818929451042601	C:/Users/Dmitriy Katyshev/struct/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	5ffb53a54a833523
