@@ -131,7 +131,7 @@ TEST(Forward_List, range_for_iterates_all_elements) {
     ForwardList<int> L;
     L.push_front(1);
     L.push_front(2);
-    L.push_front(3); // 3,2,1
+    L.push_front(3); 
     std::vector<int> out;
     for (auto& v : L) out.push_back(v);
     EXPECT_EQ(out.size(), 3u);
@@ -143,8 +143,8 @@ TEST(Forward_List, range_for_iterates_all_elements) {
 TEST(Forward_List, copy_constructor_deep_copies_nodes) {
     ForwardList<int> L;
     L.push_front(1);
-    L.push_front(2); // 2,1
-    ForwardList<int> C(L); // copy
+    L.push_front(2); 
+    ForwardList<int> C(L);  
     L.erase_front();  
     EXPECT_EQ(C.size(), 2u);
     EXPECT_EQ(C[0], 2);
