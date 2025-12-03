@@ -17,9 +17,8 @@ FetchContent_MakeAvailable(googletest)
 
 
 add_executable(all_tests
-    tests/stack_test.cpp
-    tests/queue_test.cpp
-    tests/stack_min_test.cpp
+    tests/list_test.cpp
+    tests/task_test.cpp
 )
 
 target_include_directories(all_tests PRIVATE ${CMAKE_SOURCE_DIR}/src)
